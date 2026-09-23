@@ -2,7 +2,7 @@
 
 _Last updated 21 September 2026_
 
-Dial Timer does not collect, store or share any personal data.
+Timewedge does not collect, store or share any personal data.
 
 - The app has no account and no sign-in.
 - The app makes no network connections. It contains no analytics, no

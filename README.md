@@ -1,6 +1,6 @@
-# Dial Timer — support
+# Timewedge — support
 
-Dial Timer is a visual timer for Mac, iPhone and iPad: a coloured wedge on a dial
+Timewedge is a visual timer for Mac, iPhone and iPad: a coloured wedge on a dial
 that shrinks as the minutes pass, several timers side by side, sequences, and
 Focus blocks that ask two questions when they end.
 
